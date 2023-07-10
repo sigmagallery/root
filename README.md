@@ -1,3 +1,3 @@
-# Configuring your ergo.cx page
+# Configuring your Sigma Gallery
 
-[Instructions](https://github.com/ergocx)
+[Instructions](https://github.com/sigmagallery)
