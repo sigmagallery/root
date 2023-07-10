@@ -1,15 +1,7 @@
-title: Sigma Gallery Demo
+title: NFT Galleries on Ergo
 description: Sigma Gallery is a powerful tool designed for NFT artists to effortlessly showcase their collections in an organized manner. This demo page allows you to explore the various features and capabilities of Sigma Gallery.
-image: https://ipfs.io/ipfs/QmPekYtv8BPx3Q3yz13hmzteUHQmNrreMFJfyskB7fJSwx/336_Chase-the-IRS-hitman7.png
-mintAddresses:
-- 9hfNCyqJsCSku8HXrV17Y6AaQciCAwkwx4M49imdWjRaTX22Mvz
+image: https://sigma.gallery/resources/img/sigmagallery.png
 bannerLinks:
 - label: Twitter
-  url: https://twitter.com/
+  url: https://twitter.com/sigmagallery
   icon: fa-brands fa-twitter fa-fw
-- label: Telegram
-  url: https://t.me/
-  icon: fa-brands fa-telegram fa-fw
-- label: Discord
-  url: https://discord.com/users/
-  icon: fa-brands fa-discord fa-fw
