@@ -1,0 +1,16 @@
+links:
+- label: Twitter
+  url: https://twitter.com/
+  icon: fa-brands fa-twitter fa-fw
+- label: Telegram
+  url: https://t.me/
+  icon: fa-brands fa-telegram fa-fw
+- label: Discord
+  url: https://discord.com/users/
+  icon: fa-brands fa-discord fa-fw
+- label: Skyharbor
+  url: https://www.skyharbor.io/
+  icon: fa-solid fa-sailboat fa-fw
+- label: Auction House
+  url: https://ergoauctions.org/
+  icon: fa-solid fa-brush fa-fw

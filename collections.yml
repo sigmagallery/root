@@ -1,0 +1,11 @@
+collections:
+- label: CyberCitizens
+  data: cybercitizens.yml 
+- label: Ergo Champions
+  data: ergochampions.yml
+- label: Ergoats
+  data: ergoats.yml
+- label: Ergnomes
+  data: ergnomes.yml
+- label: ErgWorlds
+  data: ergworlds.yml
