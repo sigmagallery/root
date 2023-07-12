@@ -1,6 +1,7 @@
-- collection: ergochampions
-- collection: magechampions
-- collection: minichamps
-- collection: cybercitizens
-- collection: cyberpets
-- collection: cyberia
+collections:
+  - ergochampions
+  - magechampions
+  - minichamps
+  - cybercitizens
+  - cyberpets
+  - cyberia
