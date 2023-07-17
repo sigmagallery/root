@@ -11,3 +11,6 @@ links:
 - label: Auction House
   url: https://ergoauctions.org/
   icon: fa-solid fa-brush fa-fw
+- label: Donate
+  url: https://explorer.ergoplatform.com/payment-request?address=9hcAjeBRrG2JH6dxS3jpYbcz1wHe3wfmz1qquNPngMWv3cVB3rh&description=If%20you%20enjoy%20using%20Sigma%20gallery%20and%20would%20like%20to%20support%20our%20work%2C%20please%20consider%20making%20a%20donation.
+  icon: fa-solid fa-hand-holding-dollar fa-fw
