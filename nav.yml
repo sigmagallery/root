@@ -1,7 +1,10 @@
 links:
 - label: Collections
-  url: https://sigma.gallery
-  icon: fa-solid fa-house fa-fw
+  url: https://sigma.gallery/collections
+  icon: fa-solid fa-palette fa-fw
+- label: Issuers
+  url: https://sigma.gallery/issuers
+  icon: fa-solid fa-user fa-fw
 - label: Twitter
   url: https://twitter.com/sigmagallery
   icon: fa-brands fa-twitter fa-fw
