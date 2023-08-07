@@ -11,3 +11,6 @@ links:
 - label: Donate
   url: https://donate.sigma.gallery
   icon: fa-solid fa-hand-holding-dollar fa-fw
+- label: Wallet Viewer
+  url: https://sigma.gallery/wallet
+  icon: fa-solid fa-image fa-fw
